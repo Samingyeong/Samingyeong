@@ -3,11 +3,15 @@ a = int(a)
 b = int(b)
 c = int(c)
 
+f = False
+
 for i in range(1, 101):
     c = i*c
-    if a <= c and b >= c:
+    if a <= c <= b:
         print("YES")
+        f = True
         break
 
-    elif a >= c and b <= c:
-        print("NO")
+if not f:
+    print("NO")
+        
