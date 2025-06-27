@@ -1,10 +1,10 @@
 arr = []
-for i in range(1,6):
-    n = input("")  
+for _ in range(5):
+    n = int(input(""))  
     arr.append(n)
 
 satisfied = False
-if int(arr[0]) % 3 ==0:
+if n % 3 ==0 and arr[0] % 3 ==0:
     satisfied = True
 
 if satisfied == True:
