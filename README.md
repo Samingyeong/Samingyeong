@@ -30,23 +30,23 @@
 <div align="center">
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts&theme=light" />
-<img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" height="32" />
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts&theme=light" height="48" />
+<img src="https://raw.githubusercontent.com/Samingyeong/Samingyeong/main/.github/assets/quasar.svg" height="48" alt="Quasar" />
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs&theme=light" height="48" />
 
 **Data & Storage**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite&theme=light" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" height="32" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite&theme=light" height="48" />
+<img src="https://raw.githubusercontent.com/Samingyeong/Samingyeong/main/.github/assets/minio.svg" height="48" alt="MinIO" />
 
 **Infrastructure & Platform**<br/>
-<img src="https://skillicons.dev/icons?i=docker,electron,vercel&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker,electron,vercel&theme=light" height="48" />
 
 **Development & Collaboration**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=light" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Kiro-8B5CF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN3YxMGwxMCA1IDEwLTVWN0wxMiAyeiIvPjwvc3ZnPg==&logoColor=white" height="32" />
+<img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=light" height="48" />
+<img src="https://raw.githubusercontent.com/Samingyeong/Samingyeong/main/.github/assets/cursor.svg" height="48" alt="Cursor" />
+<img src="https://raw.githubusercontent.com/Samingyeong/Samingyeong/main/.github/assets/kiro.svg" height="48" alt="Kiro" />
 
 </div>
 
