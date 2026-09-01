@@ -69,44 +69,121 @@
 
 ## 🌸 Projects
 
-> 🌡️ **[HBNU · DED 공정 모니터링](https://github.com/Samingyeong/HBNU_DED_Monitoring)** — `개인` · 100%
-> 흩어진 제조 공정 데이터를 하나의 화면으로 통합하고, 이상 발생 시 대응까지 연결한 실시간 모니터링 시스템
-> `Electron` `Flask` `Vue.js` `WebSocket` · 2025.07 – 2026.02
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 📚 **[WORD IMPOSTER · 다국어 단어 학습 웹앱](https://github.com/Samingyeong/English_word_app)** — `개인` · 100%
-> 내가 공부하고 싶은 단어를 직접 구성하고, 다양한 방식으로 반복 학습할 수 있는 맞춤형 단어 학습 서비스
-> `Next.js` `React` `TypeScript` `Firebase` · 지속 개발 중
+#### 🌡️ DED 공정 모니터링
+<sub>`개인` · 기여도 100% · 2025.07–2026.02</sub>
 
-> 💰 **[Budgetly · 예산 관리 자동화](https://github.com/Samingyeong/Budgetly)** — `팀장·PM` · 60% · 🏆 대상
-> 흩어진 예산 내역과 증빙 자료를 하나로 통합하고, 반복적인 영수증 처리와 결산 업무를 자동화한 예산 관리 플랫폼
-> `Vue.js` `FastAPI` `Firebase` `Azure OCR` · 2025.11
+흩어진 제조 공정 데이터를 한 화면으로 통합하고, 이상 발생 시 대응까지 연결한 실시간 모니터링 시스템
 
-> 🧸 **[ON-KID · 장애아동 맞춤형 AI 동화 학습 플랫폼](https://github.com/Samingyeong/On-kid-hackcamp)** — `팀장` · 70% · 🏆 우수상
-> 장애 유형에 따라 달라지는 동화 학습의 장벽을 분석하고, AI와 공공데이터로 청각·시각장애 아동에게 맞춘 학습 환경을 구현한 서비스
-> `React` `Node.js` `TypeScript` `KoNLPy` `TTS` · 2026.05
+<sub>**Electron · Flask · Vue.js · WebSocket**</sub>
 
-> ⚙️ **KETI · PBF 공정 데이터 통합 관리 시스템** — `KETI 지능융합SW연구센터` · 60%
-> 분산된 PBF 공정 데이터를 하나의 시스템으로 통합하고, 장비·소재·공정 이력별 조회부터 시각화·보고서 작성까지 연결한 데이터 관리 웹서비스
-> `Vue.js` `PostgreSQL` `MongoDB` `MinIO` `AWS` · 2025.01 – 2025.02
+[![repo](https://img.shields.io/badge/Repository-FF8FB3?style=flat-square&logo=github&logoColor=white)](https://github.com/Samingyeong/HBNU_DED_Monitoring)
 
-> 🐷 **G-FARM · 스마트 축산 모니터링 플랫폼** — `지팜` · 40%
-> 관리자·사용자 웹 서비스 개발 및 유지보수, 카메라·사용자·그룹 관리, 분만·자돈·발정 모니터링 화면 개발
-> `Vue.js` `Quasar` `Docker` · 2026.07 – 2026.08
+</td>
+<td width="50%" valign="top">
+
+#### 📚 WORD IMPOSTER
+<sub>`개인` · 기여도 100% · 지속 개발 중</sub>
+
+공부하고 싶은 단어를 직접 구성하고 다양한 방식으로 반복 학습하는 맞춤형 단어 학습 웹앱
+
+<sub>**Next.js · React · TypeScript · Firebase**</sub>
+
+[![repo](https://img.shields.io/badge/Repository-FF8FB3?style=flat-square&logo=github&logoColor=white)](https://github.com/Samingyeong/English_word_app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💰 Budgetly &nbsp;🏆
+<sub>`팀장·PM` · 기여도 60% · 2025.11</sub>
+
+예산 내역과 증빙 자료를 통합하고, 영수증 처리·결산 업무를 자동화한 예산 관리 플랫폼
+
+<sub>**Vue.js · FastAPI · Firebase · Azure OCR**</sub>
+
+[![repo](https://img.shields.io/badge/Repository-FF8FB3?style=flat-square&logo=github&logoColor=white)](https://github.com/Samingyeong/Budgetly)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧸 ON-KID &nbsp;🏆
+<sub>`팀장` · 기여도 70% · 2026.05</sub>
+
+장애 유형별 학습 장벽을 분석해, AI·공공데이터로 청각·시각장애 아동 맞춤 학습 환경을 구현한 서비스
+
+<sub>**React · Node.js · TypeScript · KoNLPy · TTS**</sub>
+
+[![repo](https://img.shields.io/badge/Repository-FF8FB3?style=flat-square&logo=github&logoColor=white)](https://github.com/Samingyeong/On-kid-hackcamp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ KETI · PBF 공정 데이터 관리
+<sub>`KETI 지능융합SW연구센터` · 기여도 60% · 2025.01–02</sub>
+
+분산된 PBF 공정 데이터를 통합하고, 이력별 조회·시각화·보고서 작성까지 연결한 데이터 관리 웹서비스
+
+<sub>**Vue.js · PostgreSQL · MongoDB · MinIO · AWS**</sub>
+
+<img src="https://img.shields.io/badge/Private-C7C7C7?style=flat-square&logo=github&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐷 G-FARM · 스마트 축산 모니터링
+<sub>`지팜` · 기여도 40% · 2026.07–08</sub>
+
+관리자·사용자 웹 개발 및 유지보수, 카메라·사용자·그룹 관리, 분만·자돈·발정 모니터링 화면 개발
+
+<sub>**Vue.js · Quasar · Docker**</sub>
+
+<img src="https://img.shields.io/badge/Private-C7C7C7?style=flat-square&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🏆 Awards & Certificates
+## 🏆 Awards
 
 <table>
-<tr><td><b>2026</b></td><td>🏅 국립중앙과학관 AI HACK CAMP 우수상</td></tr>
-<tr><td><b>2025</b></td><td>🏅 소중한 오픈소스 활용 SW경진대회 대상</td></tr>
-<tr><td><b>2024</b></td><td>🏅 컴퓨터공학과 경진대회 우수상</td></tr>
-<tr><td><b>2023</b></td><td>🏅 메타버스 이천 공모전 대상 · 제15회 소외된 이웃과 함께하는 창의설계 경진대회 대상 · 대학생 중국어 영상 더빙 대회 우수상</td></tr>
-<tr><td><b>2022</b></td><td>🏅 브랜드 중문 네이밍 콘테스트 대상</td></tr>
+<tr>
+  <td align="center" width="90"><b>2026</b></td>
+  <td>🥈 국립중앙과학관 <b>AI HACK CAMP</b> 우수상</td>
+</tr>
+<tr>
+  <td align="center"><b>2025</b></td>
+  <td>🥇 소중한 오픈소스 활용 <b>SW경진대회</b> 대상</td>
+</tr>
+<tr>
+  <td align="center"><b>2024</b></td>
+  <td>🥈 <b>컴퓨터공학과 경진대회</b> 우수상</td>
+</tr>
+<tr>
+  <td align="center"><b>2023</b></td>
+  <td>🥇 <b>메타버스 이천 공모전</b> 대상 &nbsp;·&nbsp; 🥇 <b>창의설계 경진대회</b> 대상 &nbsp;·&nbsp; 🥈 <b>대학생 중국어 영상 더빙 대회</b> 우수상</td>
+</tr>
+<tr>
+  <td align="center"><b>2022</b></td>
+  <td>🥇 <b>브랜드 중문 네이밍 콘테스트</b> 대상</td>
+</tr>
 </table>
 
-**자격 및 수료**
-`2022.09` 3D프린터 운용기능사 · `2025.12` NAVER Cloud Platform Certified Associate · `2026.07` TOEIC Speaking (IH)
+## 📜 Certificates & Language
+
+<img src="https://img.shields.io/badge/NAVER_Cloud_Platform_Certified_Associate-03C75A?style=flat-square&logo=naver&logoColor=white" />
+<img src="https://img.shields.io/badge/3D프린터_운용기능사-4A90D9?style=flat-square&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/TOEIC_Speaking-IH-FF8FB3?style=flat-square" />
+<img src="https://img.shields.io/badge/HSK-5급_준비중-FFB84D?style=flat-square" />
 
 <br/>
 
