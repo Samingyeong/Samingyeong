@@ -30,22 +30,23 @@
 <div align="center">
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts&theme=light" /><br/>
-Quasar
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts&theme=light" />
+<img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" height="32" />
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs&theme=light" />
 
 **Data & Storage**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite&theme=light" /><br/>
-MinIO
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite&theme=light" />
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" height="32" />
 
 **Infrastructure & Platform**<br/>
 <img src="https://skillicons.dev/icons?i=docker,electron,vercel&theme=light" />
 
 **Development & Collaboration**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=light" /><br/>
-Cursor · Kiro
+<img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=light" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Kiro-8B5CF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN3YxMGwxMCA1IDEwLTVWN0wxMiAyeiIvPjwvc3ZnPg==&logoColor=white" height="32" />
 
 </div>
 
@@ -55,10 +56,12 @@ Cursor · Kiro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samingyeong&show_icons=true&hide_border=true&title_color=FF8FB3&icon_color=BAFFC9&text_color=4A4A4A&bg_color=FFFDFB" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Samingyeong&hide_border=true&stroke=FFD6E8&ring=FF8FB3&fire=FF8FB3&currStreakLabel=FF8FB3&background=FFFDFB&text_color=4A4A4A" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samingyeong&layout=compact&hide_border=true&title_color=FF8FB3&text_color=4A4A4A&bg_color=FFFDFB" />
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samingyeong&show_icons=true&hide_border=true&title_color=FF8FB3&icon_color=FF8FB3&text_color=4A4A4A&bg_color=FFFDFB&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samingyeong&layout=compact&hide_border=true&title_color=FF8FB3&text_color=4A4A4A&bg_color=FFFDFB&langs_count=8&cache_seconds=1800" />
 
 </div>
 
