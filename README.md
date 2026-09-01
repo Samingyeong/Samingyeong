@@ -56,11 +56,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samingyeong&show_icons=true&hide_border=true&title_color=FF8FB3&icon_color=FF8FB3&text_color=4A4A4A&bg_color=FFFDFB" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samingyeong&layout=compact&hide_border=true&title_color=FF8FB3&text_color=4A4A4A&bg_color=FFFDFB&langs_count=6" />
-
-<br/>
-
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Samingyeong&hide_border=true&stroke=FFD6E8&ring=FF8FB3&fire=FF8FB3&currStreakLabel=FF8FB3&background=FFFDFB&text_color=4A4A4A" />
 
 </div>
@@ -162,19 +157,19 @@
 
 <table>
 <tr>
-  <td align="center" width="150"><b>중앙백신연구소</b><br/><sub><code>2026.09 – 10</code></sub></td>
+  <td align="center" width="220" nowrap><b>중앙백신연구소</b><br/><sub><code>2026.09 – 10</code></sub></td>
   <td>🧪 <b>Frontend Developer</b> · 진행 중<br/><sub>국제포럼 전시 부스용 키오스크 앱 개발 — 기업·제품 소개와 게임 콘텐츠를 연결한 다국어 터치 키오스크 서비스</sub></td>
 </tr>
 <tr>
-  <td align="center"><b>지팜 (G-FARM)</b><br/><sub><code>2026.07 – 08</code></sub></td>
+  <td align="center" width="220" nowrap><b>지팜 (G-FARM)</b><br/><sub><code>2026.07 – 08</code></sub></td>
   <td>🐷 <b>Frontend Developer</b> · 인턴<br/><sub>스마트 축산 모니터링 웹서비스 — 관리자·사용자 화면 개발 및 유지보수, 실시간 카메라 스트리밍 모니터링</sub></td>
 </tr>
 <tr>
-  <td align="center"><b>한밭대 3D Printing Center</b><br/><sub><code>2023.06 – 2026.02</code></sub></td>
+  <td align="center" width="220" nowrap><b>한밭대 3D Printing Center</b><br/><sub><code>2023.06 – 2026.02</code></sub></td>
   <td>🖥️ <b>학생연구원</b><br/><sub>DED 실시간 공정 모니터링 시스템 개발 — 장비·센서·영상 데이터를 통합한 웹 기반 모니터링·대응 시스템</sub></td>
 </tr>
 <tr>
-  <td align="center"><b>KETI 한국전자기술연구원</b><br/><sub><code>2025.01 – 02</code></sub></td>
+  <td align="center" width="220" nowrap><b>KETI 한국전자기술연구원</b><br/><sub><code>2025.01 – 02</code></sub></td>
   <td>🔬 <b>연구원</b> · 지능융합SW연구센터<br/><sub>PBF 공정 데이터 통합 관리 웹서비스 개발 — 분산된 공정 데이터 수집·통합 및 조회 기능 구현</sub></td>
 </tr>
 </table>
