@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samingyeong-BAFFC9?style=for-the-badge&logo=github&logoColor=333)](https://github.com/Samingyeong)
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-D6C8FF?style=for-the-badge&logo=notion&logoColor=333)](https://www.notion.so/2025-2060327d80a98044a8a0c330905b76c7?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-D6C8FF?style=for-the-badge&logo=notion&logoColor=333)](https://mingoo-portfolio.notion.site/?source=copy_link)
 [![Instagram](https://img.shields.io/badge/Instagram-mixx._n-FFD6E8?style=for-the-badge&logo=instagram&logoColor=333)](https://www.instagram.com/mixx._n?igsh=MW41YmVhNHdjYTJ4cg%3D%3D&utm_source=qr)
 [![Email](https://img.shields.io/badge/Email-samg2003-FFF0B3?style=for-the-badge&logo=naver&logoColor=333)](mailto:samg2003@naver.com)
 
